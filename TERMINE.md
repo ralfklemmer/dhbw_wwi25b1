@@ -5,7 +5,7 @@ Im folgenden gebe ich dir eine Liste von Terminen.  \
 31.10. - 13:30-16:45 Uhr WWI25B (online) \
 03.11. - 13:30-17:45 Uhr WWI25B (A468) \
 10.11. - 13:30-16:45 Uhr WWI25B (online) \
-01.12. - 13:30-17:45 Uhr WWI25B (A468) \
+01.12. - 13:30-17:45 Uhr WWI25B (A468)
 
 12.12. Klausuren
 
