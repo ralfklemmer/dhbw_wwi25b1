@@ -1,0 +1,1 @@
+package fizzbuzz;public class GiveMeAGoodName {}
