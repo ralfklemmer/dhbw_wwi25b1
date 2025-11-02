@@ -122,7 +122,7 @@ Sie sollen ein Git-Repository für ein fiktives "Studienplaner"-Projekt anlegen 
 ## **Abgabe-Details**
 
 **Deadline:** [Datum einsetzen]  
-**Abgabe über:** über euer persönliches github Repository im Unterordner "Git".  
+**Abgabe über:** über euer persönliches github Repository im Unterordner `Git`.  
 **Screenshot-Benennung:** `Git-Teil[X]-Schritt[Y]-[IhrNachname].png`  
 
 **Wichtige Hinweise:**
