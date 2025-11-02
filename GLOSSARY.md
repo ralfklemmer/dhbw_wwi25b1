@@ -63,7 +63,7 @@ Der **Compile**-Vorgang (Kompilierung) ist der Prozess, bei dem ein Compiler den
 
 ### Dependency
 
-Eine **Dependency** (deutsch: Abhängigkeit) ist eine externe Bibliothek oder ein externes Softwarepaket, das ein Projekt benötigt, um zu funktionieren. Build-Management-Tools wie Maven oder Gradle verwalten diese Abhängigkeiten automatisch, indem sie die benötigten Bibliotheken herunterladen und in das Projekt einbinden.
+Eine **Dependency** (deutsch: Abhängigkeit) ist eine externe Bibliothek oder ein externes Softwarepaket, das ein Projekt benötigt, um zu funktionieren. Build-Management-Tools wie Maven oder Gradle verwalten diese Abhängigkeiten automatisch, indem sie die benötigten Bibliotheken herunterladen und in das Projekt einbinden. Du findest Dependencies z.B. unter `https://mvnrepository.com/`.
 
 -----
 
