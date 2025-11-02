@@ -5,20 +5,20 @@
 
 Ihr sollt eine Kommandozeilenanwendung in Java 25 implementieren, die Zeitstunden in Vorlesungsstunden umrechnet. Dabei gilt:
 - Eine Vorlesungsstunde dauert 45 Minuten.
-- Nach 2 Vorlesungsstunden muss eine 15-minÃ¼tige Pause eingeplant werden, wenn mindestens eine weitere Vorlesungsstunde folgt.
+- Nach 2 Vorlesungsstunden muss eine 15-minütige Pause eingeplant werden, wenn mindestens eine weitere Vorlesungsstunde folgt.
 - Wenn keine weiteren Vorlesungsstunden nach den ersten zwei Stunden stattfinden, wird keine Pause eingeplant.
-- FÃ¼r einen gegebenen Zeitraum sollen die Vorlesungsstunden und Pausen berechnet werden.
+- Für einen gegebenen Zeitraum sollen die Vorlesungsstunden und Pausen berechnet werden.
 
 ### Beispiel:
 Eingabe: 09:00 bis 13:15
-Ergebnis: 5 Vorlesungsstunden, 2 Pausen (Ã  15 Minuten)
+Ergebnis: 5 Vorlesungsstunden, 2 Pausen (à 15 Minuten)
 
-## TestfÃ¤lle
+## Testfälle
 1. **Exakte Anzahl an Vorlesungsstunden ohne Pause**
 - **Input:** Startzeit: 09:00, Endzeit: 10:30
 - **Erwartetes Ergebnis:** 2 Vorlesungsstunden, 0 Pausen
 
-2. **Zeitraum mit 2 Vorlesungsstunden ohne zusÃ¤tzliche Vorlesungsstunden danach**
+2. **Zeitraum mit 2 Vorlesungsstunden ohne zusätzliche Vorlesungsstunden danach**
 - **Input:** Startzeit: 09:00, Endzeit: 10:30
 - **Erwartetes Ergebnis:** 2 Vorlesungsstunden, 0 Pausen (da keine weitere Vorlesung folgt)
 
