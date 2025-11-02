@@ -1,8 +1,8 @@
-**The challenge ⚙️**
+**The challenge ⚙️**  
 Do a simple project using far stricter coding standards than you’ve ever used in your life.  
 Below, you’ll find 9 “rules of thumb” that will help push your code into good object-oriented shape.
 
-**The rules ✅**
+**The rules ✅**  
     1.  One level of indentation per method ➜ nur eine Einrückungsebene pro Methode.  
     2.  Don’t use the ELSE keyword ➜ kein ELSE-Schlüsselwort verwenden.  
     3.  Wrap all primitives and Strings ➜ alle primitiven Typen und Strings kapseln.  
