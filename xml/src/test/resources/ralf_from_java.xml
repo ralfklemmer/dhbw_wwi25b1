@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><student>    <vorname>Ralf</vorname>    <nachname>Klemmer</nachname>    <hobbies>        <hobby>1</hobby>        <hobby>2</hobby>    </hobbies>    <isLivingInKarlsruhe>true</isLivingInKarlsruhe></student>
