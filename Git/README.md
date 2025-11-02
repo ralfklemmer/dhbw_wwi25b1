@@ -121,9 +121,9 @@ Sie sollen ein Git-Repository für ein fiktives "Studienplaner"-Projekt anlegen 
 
 ## **Abgabe-Details**
 
-**Deadline:** [Datum einsetzen]
-**Abgabe über:** über euer persönliches github Repository im Unterordner "Git".
-**Screenshot-Benennung:** `Git-Teil[X]-Schritt[Y]-[IhrNachname].png`
+**Deadline:** [Datum einsetzen]  
+**Abgabe über:** über euer persönliches github Repository im Unterordner "Git".  
+**Screenshot-Benennung:** `Git-Teil[X]-Schritt[Y]-[IhrNachname].png`  
 
 **Wichtige Hinweise:**
 -   Arbeiten Sie ausschließlich in der Kommandozeile (Terminal/Git Bash).
@@ -137,9 +137,9 @@ Sie sollen ein Git-Repository für ein fiktives "Studienplaner"-Projekt anlegen 
 
 ## **Was wird bewertet:**
 
-✅ **Korrekte Git-Befehle** (sichtbar in Screenshots)
-✅ **Richtige Terminal-Ausgaben** (Repository-Status, Logs)
-✅ **Vollständige Dokumentation** (alle geforderten Screenshots)
-✅ **Saubere Commit-Historie** (aussagekräftige Commit-Nachrichten)
+✅ **Korrekte Git-Befehle** (sichtbar in Screenshots)  
+✅ **Richtige Terminal-Ausgaben** (Repository-Status, Logs)  
+✅ **Vollständige Dokumentation** (alle geforderten Screenshots)  
+✅ **Saubere Commit-Historie** (aussagekräftige Commit-Nachrichten)  
 
 Viel Erfolg bei der Übung! 🎉
