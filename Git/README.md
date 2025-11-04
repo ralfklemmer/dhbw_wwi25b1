@@ -6,11 +6,39 @@
 
 Diese Übung prüft Ihre praktischen Git-Kenntnisse. Sie arbeiten ausschließlich in der **Kommandozeile/Terminal** 💻 und dokumentieren jeden Schritt durch Screenshots.
 
+--
+
+## **Abgabe-Details**
+
+**Deadline:** [Datum einsetzen]
+**Screenshot-Benennung:** `Git-Teil[X]-Schritt[Y]-[IhrNachname].png`
+
+**Wichtige Hinweise:**
+-   Arbeiten Sie ausschließlich in der Kommandozeile (Terminal/Git Bash).
+-   Jeder Screenshot muss die verwendeten Befehle UND deren Ausgabe zeigen.
+-   Der Befehl zur Anzeige der Commit-Historie lautet einheitlich: `git log --oneline --graph --all`.
+-   Screenshots müssen chronologisch und lesbar hochgeladen werden.
+
+**Bei Problemen:** Melden Sie sich sofort, falls Git-Befehle nicht funktionieren 🆘.
+
+---
+
+## **Was wird bewertet:**
+
+✅ **Korrekte Git-Befehle** (sichtbar in Screenshots)
+✅ **Richtige Terminal-Ausgaben** (Repository-Status, Logs)
+✅ **Vollständige Dokumentation** (alle geforderten Screenshots)
+✅ **Saubere Commit-Historie** (aussagekräftige Commit-Nachrichten)
+
+Viel Erfolg bei der Übung! 🎉
+
 ---
 
 ## **Ihre Aufgabe: Ein persönliches Projekt-Repository erstellen**
 
 Sie sollen ein Git-Repository für ein fiktives "Studienplaner"-Projekt anlegen und verschiedene Entwicklungsschritte simulieren.
+
+--
 
 ### **Teil 1: Repository-Grundlagen (20 Punkte)**
 
@@ -116,30 +144,3 @@ Sie sollen ein Git-Repository für ein fiktives "Studienplaner"-Projekt anlegen 
 6.  Committen Sie die `.gitignore` mit der Nachricht "Feat: .gitignore für Projektdateien hinzugefügt".
 
 **📸 Abgabe:** Screenshots, die den Inhalt der `.gitignore` zeigen, die `git status` Ausgabe nach Schritt 4 und die finale `git log --oneline --graph --all` Ausgabe.
-
----
-
-## **Abgabe-Details**
-
-**Deadline:** [Datum einsetzen]  
-**Abgabe über:** über euer persönliches github Repository im Unterordner `Git`.  
-**Screenshot-Benennung:** `Git-Teil[X]-Schritt[Y]-[IhrNachname].png`  
-
-**Wichtige Hinweise:**
--   Arbeiten Sie ausschließlich in der Kommandozeile (Terminal/Git Bash).
--   Jeder Screenshot muss die verwendeten Befehle UND deren Ausgabe zeigen.
--   Der Befehl zur Anzeige der Commit-Historie lautet einheitlich: `git log --oneline --graph --all`.
--   Screenshots müssen chronologisch und lesbar hochgeladen werden.
-
-**Bei Problemen:** Melden Sie sich sofort, falls Git-Befehle nicht funktionieren 🆘.
-
----
-
-## **Was wird bewertet:**
-
-✅ **Korrekte Git-Befehle** (sichtbar in Screenshots)  
-✅ **Richtige Terminal-Ausgaben** (Repository-Status, Logs)  
-✅ **Vollständige Dokumentation** (alle geforderten Screenshots)  
-✅ **Saubere Commit-Historie** (aussagekräftige Commit-Nachrichten)  
-
-Viel Erfolg bei der Übung! 🎉
